@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="685.0" y="393.5">Circle</node>
+    <node x="383.5" y="0.0">Shape</node>
+    <node x="0.0" y="133.0">Colorable</node>
+    <node x="317.0" y="380.0">Rectangle</node>
+    <node x="23.0" y="393.5">Square</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Square" target="Colorable">
+      <point x="-68.5" y="-165.0" />
+      <point x="0.0" y="32.0" />
+    </edge>
+    <edge source="Circle" target="Shape">
+      <point x="-5.6843418860808015E-14" y="-165.0" />
+      <point x="817.5" y="355.0" />
+      <point x="562.6666666666667" y="355.0" />
+      <point x="71.66666666666669" y="165.0" />
+    </edge>
+    <edge source="Rectangle" target="Shape">
+      <point x="0.0" y="-178.5" />
+      <point x="0.0" y="165.0" />
+    </edge>
+    <edge source="Square" target="Shape">
+      <point x="68.5" y="-165.0" />
+      <point x="228.5" y="355.0" />
+      <point x="419.3333333333333" y="355.0" />
+      <point x="-71.66666666666669" y="165.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="479.0" y="453.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
